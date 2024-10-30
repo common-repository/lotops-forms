@@ -1,0 +1,6 @@
+
+#LoTops-Forms * { margin:0; padding:0; border:0; font-size:100%; font:inherit; vertical-align:baseline; }
+#LoTops-Forms { text-align:center; } 
+#LoTops-Forms input, #LoTops-Forms textarea { display:inline-block; width:400px; padding:8px; margin:4px; border:1px solid lightgrey; border-radius:4px; }
+#LoTops-Forms input::placeholder, #LoTops-Forms textarea::placeholder { color:#AAA; }
+
